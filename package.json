@@ -25,5 +25,12 @@
     "hardhat-gas-reporter": "^1.0.9",
     "solidity-coverage": "^0.8.2",
     "typechain": "^8.1.1"
+  },
+  "dependencies": {
+    "@alch/alchemy-web3": "^1.4.7",
+    "@openzeppelin/contracts": "^4.7.3",
+    "alchemy-sdk": "^2.2.0",
+    "dotenv": "^16.0.3",
+    "web3": "^1.8.0"
   }
 }
